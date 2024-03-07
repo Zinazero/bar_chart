@@ -1,0 +1,30 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    font-family: gotham;
+  }
+  
+  #title {
+    position: absolute;
+    left: 330px;
+    font-size: 3rem;
+  }
+  
+  #tooltip {
+    position: absolute;
+    z-index: 9999;
+    color: white;
+    height: auto;
+    width: auto;
+    background-color: grey;
+    white-space: pre;
+    line-height: 1.5;
+    padding: 5px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 10px;
+  }
+  
+  .bar {
+    fill: #388E3C;
+    
+  }

@@ -1,0 +1,1 @@
+# A program utilizing javaScript, HTML and CSS to display a bar chart generated from the fetched .json data. This program was produced as part of the Data Visualization Course on freeCodeCamp.org. Created by Jacob Hexamer
